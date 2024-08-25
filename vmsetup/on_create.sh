@@ -158,7 +158,7 @@ user_file_exists conda/bin/jupyter || run_as_user <<END
     cytoolz
 
   # install the core epic-framework libraries
-  $USER_HOME/conda/bin/pip install -U --extra-index-url https://d2dsindf03djlb.cloudfront.net \
+  $USER_HOME/conda/bin/pip install -U \
     epic-common \
     epic-logging \
     epic-caching \
@@ -168,7 +168,7 @@ user_file_exists conda/bin/jupyter || run_as_user <<END
     ultima
 
   # note: if you fork this library, and modify the python packages, adjust this command to install your code
-  $USER_HOME/conda/bin/pip install -U --extra-index-url https://d2dsindf03djlb.cloudfront.net \
+  $USER_HOME/conda/bin/pip install -U \
     epic-lab
 END
 
