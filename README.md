@@ -1,5 +1,5 @@
 # Epic lab &mdash; Opinionated research lab management tools
-[![Epic-lab CI](https://github.com/Cybereason/epic-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Cybereason/epic-lab/actions/workflows/ci.yml)
+[![Epic-lab CI](https://github.com/epic-framework/epic-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/epic-framework/epic-lab/actions/workflows/ci.yml)
 
 ## What is it?
 

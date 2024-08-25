@@ -6,7 +6,7 @@ setup:
     content_type: text/markdown
   author: Yonatan Perry, Assaf Ben-David, Uri Sternfeld
   license: MIT License
-  url: https://github.com/Cybereason/epic-lab
+  url: https://github.com/epic-framework/epic-lab
 
   python_requires: ">=3.10"
   top_packages:
